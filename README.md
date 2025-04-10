@@ -40,10 +40,9 @@ git clone https://github.com/<your-username>/food-ordering-system-java.git
 cd food-ordering-system-java
 
 
+``` end
 
-
-
-### Demo screenshots
+ Demo screenshots
 
 ![image](https://github.com/user-attachments/assets/5f49ddff-716d-4c77-b1dc-2a421767ca3b)
 
